@@ -19,7 +19,7 @@ This implementation provides a baseline for testing numerical methods and evalua
 
 ## Numerical methods
 
-The current Python implementation uses **symplectic Euler** for numerical integration.
+The current Python implementation uses [**symplectic Euler**][https://en.wikipedia.org/wiki/Semi-implicit_Euler_method] for numerical integration.
 
 An important aspect of the project is understanding how the choice of integrator affects accuracy, stability and the long-term behaviour of gravitational simulations.
 
