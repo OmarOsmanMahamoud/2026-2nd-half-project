@@ -1,3 +1,5 @@
+<a href="https://stackexchange.com/users/46702143/omar-osman-mahamoud"><img src="https://stackexchange.com/users/flair/46702143.png" width="208" height="58" alt="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 # Solar System Gravitational Simulation
 
 ## Overview
@@ -35,9 +37,6 @@ The main development goals are:
 * Improve trajectory visualization through animation.
 
 These developments will be implemented progressively as the project evolves.
-
-
-<a href="https://stackexchange.com/users/46702143/omar-osman-mahamoud"><img src="https://stackexchange.com/users/flair/46702143.png" width="208" height="58" alt="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Project scope
 
