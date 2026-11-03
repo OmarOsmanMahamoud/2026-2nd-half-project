@@ -36,6 +36,9 @@ The main development goals are:
 
 These developments will be implemented progressively as the project evolves.
 
+
+<a href="https://stackexchange.com/users/46702143/omar-osman-mahamoud"><img src="https://stackexchange.com/users/flair/46702143.png" width="208" height="58" alt="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Omar Osman Mahamoud on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 ## Project scope
 
 This is an ongoing personal project at the intersection of computational physics, numerical analysis and scientific programming. The repository documents the implementation and development of the simulation, including the numerical methods and algorithms explored along the way.
